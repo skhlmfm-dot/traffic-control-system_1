@@ -1,0 +1,4 @@
+Strategy,Total Reward,Avg Queue Length,Avg Waiting Time
+Fixed,-1855.8,15.25,47.5
+Rule-based,-313.0,0.0,25.25
+RL,-291.3,0.0,21.5
